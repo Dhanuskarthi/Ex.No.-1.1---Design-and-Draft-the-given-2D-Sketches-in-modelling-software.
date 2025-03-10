@@ -1,5 +1,8 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+```
+NAME-Dhanus karthi S
+REG NO-24005701
+```
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -43,6 +46,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+[github-com-Dhanuskarthi-exno1-blob-main-README-md....pdf](https://github.com/user-attachments/files/19156174/github-com-Dhanuskarthi-exno1-blob-main-README-md.pdf)
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
