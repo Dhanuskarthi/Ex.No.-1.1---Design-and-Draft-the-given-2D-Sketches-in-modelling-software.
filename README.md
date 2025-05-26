@@ -46,7 +46,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
-[github-com-Dhanuskarthi-exno1-blob-main-README-md....pdf](https://github.com/user-attachments/files/19156174/github-com-Dhanuskarthi-exno1-blob-main-README-md.pdf)
+[EDM EXP 1.pdf.pdf](https://github.com/user-attachments/files/20434930/EDM.EXP.1.pdf.pdf)
+
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
